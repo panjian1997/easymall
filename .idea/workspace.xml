@@ -1,0 +1,1131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="12d61723-5f61-4cbe-95f4-545adf5b53b4" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/easymall-springcloud-parent/eureka-server-02/target/" />
+    <ignored path="$PROJECT_DIR$/easymall-parent/easymall-product/target/" />
+    <ignored path="$PROJECT_DIR$/easymall-springcloud-parent/ribbon-server/target/" />
+    <ignored path="$PROJECT_DIR$/easymall-search/target/" />
+    <ignored path="$PROJECT_DIR$/easymall-springcloud-parent/config-server/target/" />
+    <ignored path="$PROJECT_DIR$/order-user-1912-parent/springboot-user/target/" />
+    <ignored path="$PROJECT_DIR$/easymall-parent/easymall-user/target/" />
+    <ignored path="$PROJECT_DIR$/easymall-springcloud-parent/feign-client01/target/" />
+    <ignored path="$PROJECT_DIR$/easymall-parent/easymall-order/target/" />
+    <ignored path="$PROJECT_DIR$/easymall-springcloud-parent/target/" />
+    <ignored path="$PROJECT_DIR$/easymall-springcloud-parent/eureka-client/target/" />
+    <ignored path="$PROJECT_DIR$/easymall-springcloud-parent/eureka-server/target/" />
+    <ignored path="$PROJECT_DIR$/easymall-parent/easymall-product-api/target/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/easymall-parent/easymall-common-resources/target/" />
+    <ignored path="$PROJECT_DIR$/order-user-1912-parent/springboot-order/target/" />
+    <ignored path="$PROJECT_DIR$/easymall-parent/easymall-seckill/target/" />
+    <ignored path="$PROJECT_DIR$/easymall-parent/target/" />
+    <ignored path="$PROJECT_DIR$/easymall-parent/easymall-pic/target/" />
+    <ignored path="$PROJECT_DIR$/order-user-1912-parent/target/" />
+    <ignored path="$PROJECT_DIR$/easymall-parent/easymall-cart/target/" />
+    <ignored path="$PROJECT_DIR$/easymall-springcloud-parent/config-client/target/" />
+    <ignored path="$PROJECT_DIR$/easymall-springcloud-parent/gateway-server/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/easymall-parent/easymall-common-resources/src/main/java/com/jt/common/pojo/Order.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="129">
+              <caret line="13" column="39" selection-start-line="13" selection-start-column="39" selection-end-line="13" selection-end-column="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/easymall-parent/easymall-common-resources/src/main/java/com/jt/common/pojo/OrderItem.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="69">
+              <caret line="45" column="5" selection-start-line="45" selection-start-column="5" selection-end-line="45" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$APPLICATION_HOME_DIR$/plugins/maven/lib/maven.jar!/schemas/maven-4.0.0.xsd">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="483">
+              <caret line="21" column="23" lean-forward="true" selection-start-line="21" selection-start-column="23" selection-end-line="21" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/easymall-parent/easymall-common-resources/src/main/java/com/jt/common/pojo/Product.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-286">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/easymall-parent/easymall-common-resources/src/main/java/com/jt/common/pojo/Seckill.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="92">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/easymall-parent/easymall-common-resources/src/main/java/com/jt/common/utils/MD5Util.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="92">
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/easymall-parent/easymall-common-resources/src/main/java/com/jt/common/utils/RabbitmqUtils.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="46">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/easymall-parent/easymall-order/src/main/java/cn/tedu/order/controller/OrderController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="118">
+              <caret line="28" column="11" lean-forward="true" selection-start-line="28" selection-start-column="11" selection-end-line="28" selection-end-column="11" />
+              <folding>
+                <element signature="e#952#953#0" expanded="true" />
+                <element signature="e#999#1000#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/easymall-parent/easymall-common-resources/src/main/java/com/jt/common/pojo/Cart.java" />
+        <option value="$PROJECT_DIR$/easymall-parent/easymall-common-resources/src/main/java/com/jt/common/pojo/OrderItem.java" />
+        <option value="$PROJECT_DIR$/easymall-springcloud-parent/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="alwaysUpdateSnapshots" value="true" />
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+        <option name="userSettingsFile" value="D:\software\maven\maven3.6\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="config-client" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="easymall-parent" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="easymall-parent" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="950" />
+    <option name="width" value="980" />
+    <option name="height" value="1040" />
+  </component>
+  <component name="ProjectId" id="1aO1d4y5WVr90MPoJTDF4xCSkt9" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="easymall-1912-alll" type="b2602c69:ProjectViewProjectNode" />
+              <item name="easymall-1912-alll" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="easymall-1912-alll" type="b2602c69:ProjectViewProjectNode" />
+              <item name="easymall-1912-alll" type="462c0819:PsiDirectoryNode" />
+              <item name="easymall-parent" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="easymall-1912-alll" type="b2602c69:ProjectViewProjectNode" />
+              <item name="easymall-1912-alll" type="462c0819:PsiDirectoryNode" />
+              <item name="easymall-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="easymall-cart" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="easymall-1912-alll" type="b2602c69:ProjectViewProjectNode" />
+              <item name="easymall-1912-alll" type="462c0819:PsiDirectoryNode" />
+              <item name="easymall-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="easymall-cart" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="easymall-1912-alll" type="b2602c69:ProjectViewProjectNode" />
+              <item name="easymall-1912-alll" type="462c0819:PsiDirectoryNode" />
+              <item name="easymall-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="easymall-cart" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="easymall-1912-alll" type="b2602c69:ProjectViewProjectNode" />
+              <item name="easymall-1912-alll" type="462c0819:PsiDirectoryNode" />
+              <item name="easymall-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="easymall-cart" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="easymall-1912-alll" type="b2602c69:ProjectViewProjectNode" />
+              <item name="easymall-1912-alll" type="462c0819:PsiDirectoryNode" />
+              <item name="easymall-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="easymall-cart" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cn" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="easymall-1912-alll" type="b2602c69:ProjectViewProjectNode" />
+              <item name="easymall-1912-alll" type="462c0819:PsiDirectoryNode" />
+              <item name="easymall-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="easymall-cart" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cn" type="462c0819:PsiDirectoryNode" />
+              <item name="tedu" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="easymall-1912-alll" type="b2602c69:ProjectViewProjectNode" />
+              <item name="easymall-1912-alll" type="462c0819:PsiDirectoryNode" />
+              <item name="easymall-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="easymall-cart" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cn" type="462c0819:PsiDirectoryNode" />
+              <item name="tedu" type="462c0819:PsiDirectoryNode" />
+              <item name="cart" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="easymall-1912-alll" type="b2602c69:ProjectViewProjectNode" />
+              <item name="easymall-1912-alll" type="462c0819:PsiDirectoryNode" />
+              <item name="easymall-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="easymall-cart" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cn" type="462c0819:PsiDirectoryNode" />
+              <item name="tedu" type="462c0819:PsiDirectoryNode" />
+              <item name="cart" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="easymall-1912-alll" type="b2602c69:ProjectViewProjectNode" />
+              <item name="easymall-1912-alll" type="462c0819:PsiDirectoryNode" />
+              <item name="easymall-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="easymall-cart" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cn" type="462c0819:PsiDirectoryNode" />
+              <item name="tedu" type="462c0819:PsiDirectoryNode" />
+              <item name="cart" type="462c0819:PsiDirectoryNode" />
+              <item name="mapper" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="easymall-1912-alll" type="b2602c69:ProjectViewProjectNode" />
+              <item name="easymall-1912-alll" type="462c0819:PsiDirectoryNode" />
+              <item name="easymall-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="easymall-common-resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="easymall-1912-alll" type="b2602c69:ProjectViewProjectNode" />
+              <item name="easymall-1912-alll" type="462c0819:PsiDirectoryNode" />
+              <item name="easymall-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="easymall-common-resources" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="easymall-1912-alll" type="b2602c69:ProjectViewProjectNode" />
+              <item name="easymall-1912-alll" type="462c0819:PsiDirectoryNode" />
+              <item name="easymall-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="easymall-common-resources" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="easymall-1912-alll" type="b2602c69:ProjectViewProjectNode" />
+              <item name="easymall-1912-alll" type="462c0819:PsiDirectoryNode" />
+              <item name="easymall-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="easymall-common-resources" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="easymall-1912-alll" type="b2602c69:ProjectViewProjectNode" />
+              <item name="easymall-1912-alll" type="462c0819:PsiDirectoryNode" />
+              <item name="easymall-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="easymall-common-resources" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="easymall-1912-alll" type="b2602c69:ProjectViewProjectNode" />
+              <item name="easymall-1912-alll" type="462c0819:PsiDirectoryNode" />
+              <item name="easymall-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="easymall-common-resources" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="jt" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="easymall-1912-alll" type="b2602c69:ProjectViewProjectNode" />
+              <item name="easymall-1912-alll" type="462c0819:PsiDirectoryNode" />
+              <item name="easymall-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="easymall-common-resources" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="jt" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="easymall-1912-alll" type="b2602c69:ProjectViewProjectNode" />
+              <item name="easymall-1912-alll" type="462c0819:PsiDirectoryNode" />
+              <item name="easymall-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="easymall-common-resources" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="jt" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+              <item name="pojo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="easymall-1912-alll" type="b2602c69:ProjectViewProjectNode" />
+              <item name="easymall-1912-alll" type="462c0819:PsiDirectoryNode" />
+              <item name="easymall-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="easymall-common-resources" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="jt" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+              <item name="utils" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="easymall-1912-alll" type="b2602c69:ProjectViewProjectNode" />
+              <item name="easymall-1912-alll" type="462c0819:PsiDirectoryNode" />
+              <item name="easymall-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="easymall-order" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="easymall-1912-alll" type="b2602c69:ProjectViewProjectNode" />
+              <item name="easymall-1912-alll" type="462c0819:PsiDirectoryNode" />
+              <item name="easymall-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="easymall-order" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="easymall-1912-alll" type="b2602c69:ProjectViewProjectNode" />
+              <item name="easymall-1912-alll" type="462c0819:PsiDirectoryNode" />
+              <item name="easymall-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="easymall-order" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="easymall-1912-alll" type="b2602c69:ProjectViewProjectNode" />
+              <item name="easymall-1912-alll" type="462c0819:PsiDirectoryNode" />
+              <item name="easymall-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="easymall-order" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="easymall-1912-alll" type="b2602c69:ProjectViewProjectNode" />
+              <item name="easymall-1912-alll" type="462c0819:PsiDirectoryNode" />
+              <item name="easymall-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="easymall-order" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cn" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="easymall-1912-alll" type="b2602c69:ProjectViewProjectNode" />
+              <item name="easymall-1912-alll" type="462c0819:PsiDirectoryNode" />
+              <item name="easymall-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="easymall-order" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cn" type="462c0819:PsiDirectoryNode" />
+              <item name="tedu" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="easymall-1912-alll" type="b2602c69:ProjectViewProjectNode" />
+              <item name="easymall-1912-alll" type="462c0819:PsiDirectoryNode" />
+              <item name="easymall-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="easymall-order" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cn" type="462c0819:PsiDirectoryNode" />
+              <item name="tedu" type="462c0819:PsiDirectoryNode" />
+              <item name="order" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="easymall-1912-alll" type="b2602c69:ProjectViewProjectNode" />
+              <item name="easymall-1912-alll" type="462c0819:PsiDirectoryNode" />
+              <item name="easymall-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="easymall-order" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cn" type="462c0819:PsiDirectoryNode" />
+              <item name="tedu" type="462c0819:PsiDirectoryNode" />
+              <item name="order" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="easymall-1912-alll" type="b2602c69:ProjectViewProjectNode" />
+              <item name="easymall-1912-alll" type="462c0819:PsiDirectoryNode" />
+              <item name="easymall-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="easymall-order" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cn" type="462c0819:PsiDirectoryNode" />
+              <item name="tedu" type="462c0819:PsiDirectoryNode" />
+              <item name="order" type="462c0819:PsiDirectoryNode" />
+              <item name="mapper" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="easymall-1912-alll" type="b2602c69:ProjectViewProjectNode" />
+              <item name="easymall-1912-alll" type="462c0819:PsiDirectoryNode" />
+              <item name="easymall-springcloud-parent" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="easymall-1912-alll" type="b2602c69:ProjectViewProjectNode" />
+              <item name="easymall-1912-alll" type="462c0819:PsiDirectoryNode" />
+              <item name="easymall-springcloud-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="config-client" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="easymall-1912-alll" type="b2602c69:ProjectViewProjectNode" />
+              <item name="easymall-1912-alll" type="462c0819:PsiDirectoryNode" />
+              <item name="easymall-springcloud-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="config-server" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelOrder2" value="2" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RequestMappingsPanelWidth2" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/easymall-parent/easymall-cart/src/main/java/cn/tedu/cart" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../复习资料/SSM/MyBatisDay01_下午/源码/MyBatisDay01_01_First" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.07017544" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\ideaworkspace\easymall-1912-alll\easymall-search\src\main" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="cn.tedu.rabbitmq" />
+      <recent name="cn.tedu.config" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\ideaworkspace\easymall-1912-alll\easymall-parent\easymall-seckill\src\main" />
+      <recent name="D:\ideaworkspace\easymall-1912-alll\order-user-1912-parent\springboot-user\src\main\resources" />
+      <recent name="D:\ideaworkspace\easymall-1912-alll\order-user-1912-parent\springboot-user\src\test\java\cn\tedu" />
+      <recent name="D:\ideaworkspace\easymall-1912-alll\order-user-1912-parent\springboot-user" />
+      <recent name="D:\ideaworkspace\easymall-1912-alll\easymall-parent\easymall-order\src\main" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn test" />
+    </option>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.MD5Util">
+    <configuration name="MD5Util" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jt.common.utils.MD5Util" />
+      <module name="easymall-common-resources" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jt.common.utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StarterCart" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="easymall-cart" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.tedu.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.tedu.StarterCart" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StarterGateway" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="gateway-server" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.tedu.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.tedu.StarterGateway" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StarterProduct" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="easymall-product" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.tedu.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.tedu.StarterProduct" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StarterRibbon" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="ribbon-server" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.tedu.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.tedu.StarterRibbon" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StarterUser" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="easymall-user" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.tedu.StarterUser" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="eureka-client-8091" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="eureka-client" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.tedu.StarterEurekaClient" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="eureka-client-8092" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="eureka-client" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.tedu.StarterEurekaClient" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <additionalParameters>
+        <param>
+          <option name="enabled" value="true" />
+          <option name="name" value="server.port" />
+          <option name="value" value="8092" />
+        </param>
+      </additionalParameters>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="eureka-client-8093" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="eureka-client" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.tedu.StarterEurekaClient" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <additionalParameters>
+        <param>
+          <option name="enabled" value="true" />
+          <option name="name" value="server.port" />
+          <option name="value" value="8093" />
+        </param>
+      </additionalParameters>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="eureka-server-8761" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="eureka-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.tedu.StarterEurekaServer" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <additionalParameters>
+        <param>
+          <option name="enabled" value="true" />
+          <option name="name" value="server.port" />
+          <option name="value" value="8761" />
+        </param>
+        <param>
+          <option name="enabled" value="true" />
+          <option name="name" value="eureka.client.service-url.defaultZone" />
+          <option name="value" value="http://localhost:8762/eureka" />
+        </param>
+      </additionalParameters>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="eureka-server-8762" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="eureka-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.tedu.StarterEurekaServer" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <additionalParameters>
+        <param>
+          <option name="enabled" value="true" />
+          <option name="name" value="server.port" />
+          <option name="value" value="8762" />
+        </param>
+        <param>
+          <option name="enabled" value="true" />
+          <option name="name" value="eureka.client.service-url.defaultZone" />
+          <option name="value" value="http://localhost:8761/eureka" />
+        </param>
+      </additionalParameters>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="startserESever" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="eureka-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.tedu.StarterEurekaServer" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.startserESever" />
+      <item itemvalue="Spring Boot.eureka-client-8092" />
+      <item itemvalue="Spring Boot.eureka-server-8762" />
+      <item itemvalue="Spring Boot.eureka-server-8761" />
+      <item itemvalue="Spring Boot.eureka-client-8091" />
+      <item itemvalue="Spring Boot.eureka-client-8093" />
+      <item itemvalue="Spring Boot.StarterUser" />
+      <item itemvalue="Spring Boot.StarterProduct" />
+      <item itemvalue="Spring Boot.StarterGateway" />
+      <item itemvalue="Spring Boot.StarterCart" />
+      <item itemvalue="Spring Boot.StarterRibbon" />
+      <item itemvalue="Application.MD5Util" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MD5Util" />
+        <item itemvalue="Spring Boot.StarterRibbon" />
+        <item itemvalue="Spring Boot.StarterProduct" />
+        <item itemvalue="Spring Boot.StarterCart" />
+        <item itemvalue="Spring Boot.StarterGateway" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="12d61723-5f61-4cbe-95f4-545adf5b53b4" name="Default Changelist" comment="" />
+      <created>1586591909945</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586591909945</updated>
+      <workItem from="1586591911622" duration="6028000" />
+      <workItem from="1586739335173" duration="22699000" />
+      <workItem from="1586825491010" duration="46326000" />
+      <workItem from="1587084768626" duration="2279000" />
+      <workItem from="1587087538822" duration="6395000" />
+      <workItem from="1587171709893" duration="6386000" />
+      <workItem from="1587343588333" duration="8876000" />
+      <workItem from="1587361769883" duration="19242000" />
+      <workItem from="1587521538113" duration="8127000" />
+      <workItem from="1587776282583" duration="15969000" />
+      <workItem from="1587893411959" duration="15331000" />
+      <workItem from="1588036194348" duration="29787000" />
+      <workItem from="1588206892864" duration="20188000" />
+      <workItem from="1597646950509" duration="1711000" />
+      <workItem from="1597715515296" duration="3940000" />
+      <workItem from="1597740278400" duration="1224000" />
+      <workItem from="1597795517199" duration="2282000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="9157000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23927614" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32956153" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Spring" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.32956153" />
+      <window_info anchor="bottom" id="Java Enterprise" order="11" />
+      <window_info anchor="bottom" id="Database Changes" order="12" />
+      <window_info anchor="bottom" id="Version Control" order="13" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info active="true" anchor="right" id="Maven" order="3" visible="true" weight="0.3297587" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" weight="0.3297587" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Bean Validation" order="9" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="252" y="0" key="#Project_Structure" timestamp="1588236428245">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="252" y="0" key="#Project_Structure/-1920.0.1280.693/0.0.1920.1040@0.0.1920.1040" timestamp="1588236428245" />
+    <state x="151" y="57" width="1493" height="936" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587349207252">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="151" y="57" width="1493" height="936" key="#com.intellij.execution.impl.EditConfigurationsDialog/-1920.0.1280.693/0.0.1920.1040@0.0.1920.1040" timestamp="1587349207252" />
+    <state x="633" y="0" key="#com.intellij.ide.util.MemberChooser" timestamp="1588152071306">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="633" y="0" key="#com.intellij.ide.util.MemberChooser/-1920.0.1280.693/0.0.1920.1040@0.0.1920.1040" timestamp="1588152071306" />
+    <state x="768" y="184" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1587349206102">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="768" y="184" key="#com.intellij.ide.util.TreeClassChooserDialog/-1920.0.1280.693/0.0.1920.1040@0.0.1920.1040" timestamp="1587349206102" />
+    <state x="502" y="93" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1588227217059">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="502" y="93" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/-1920.0.1280.693/0.0.1920.1040@0.0.1920.1040" timestamp="1588227217059" />
+    <state x="590" y="107" key="FileChooserDialogImpl" timestamp="1588216570907">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="590" y="107" key="FileChooserDialogImpl/-1920.0.1280.693/0.0.1920.1040@0.0.1920.1040" timestamp="1588216570907" />
+    <state width="1845" height="734" key="GridCell.Tab.0.bottom" timestamp="1588238771480">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1845" height="734" key="GridCell.Tab.0.bottom/-1920.0.1280.693/0.0.1920.1040@0.0.1920.1040" timestamp="1588238771480" />
+    <state width="1845" height="734" key="GridCell.Tab.0.center" timestamp="1588238771479">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1845" height="734" key="GridCell.Tab.0.center/-1920.0.1280.693/0.0.1920.1040@0.0.1920.1040" timestamp="1588238771479" />
+    <state width="1845" height="734" key="GridCell.Tab.0.left" timestamp="1588238771479">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1845" height="734" key="GridCell.Tab.0.left/-1920.0.1280.693/0.0.1920.1040@0.0.1920.1040" timestamp="1588238771479" />
+    <state width="1845" height="734" key="GridCell.Tab.0.right" timestamp="1588238771479">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1845" height="734" key="GridCell.Tab.0.right/-1920.0.1280.693/0.0.1920.1040@0.0.1920.1040" timestamp="1588238771479" />
+    <state width="1845" height="734" key="GridCell.Tab.1.bottom" timestamp="1588238771481">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1845" height="734" key="GridCell.Tab.1.bottom/-1920.0.1280.693/0.0.1920.1040@0.0.1920.1040" timestamp="1588238771481" />
+    <state width="1845" height="734" key="GridCell.Tab.1.center" timestamp="1588238771481">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1845" height="734" key="GridCell.Tab.1.center/-1920.0.1280.693/0.0.1920.1040@0.0.1920.1040" timestamp="1588238771481" />
+    <state width="1845" height="734" key="GridCell.Tab.1.left" timestamp="1588238771481">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1845" height="734" key="GridCell.Tab.1.left/-1920.0.1280.693/0.0.1920.1040@0.0.1920.1040" timestamp="1588238771481" />
+    <state width="1845" height="734" key="GridCell.Tab.1.right" timestamp="1588238771481">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1845" height="734" key="GridCell.Tab.1.right/-1920.0.1280.693/0.0.1920.1040@0.0.1920.1040" timestamp="1588238771481" />
+    <state width="1845" height="634" key="GridCell.Tab.2.bottom" timestamp="1588213155632">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1845" height="634" key="GridCell.Tab.2.bottom/-1920.0.1280.693/0.0.1920.1040@0.0.1920.1040" timestamp="1588213155632" />
+    <state width="1845" height="634" key="GridCell.Tab.2.center" timestamp="1588213155632">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1845" height="634" key="GridCell.Tab.2.center/-1920.0.1280.693/0.0.1920.1040@0.0.1920.1040" timestamp="1588213155632" />
+    <state width="1845" height="634" key="GridCell.Tab.2.left" timestamp="1588213155632">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1845" height="634" key="GridCell.Tab.2.left/-1920.0.1280.693/0.0.1920.1040@0.0.1920.1040" timestamp="1588213155632" />
+    <state width="1845" height="634" key="GridCell.Tab.2.right" timestamp="1588213155632">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1845" height="634" key="GridCell.Tab.2.right/-1920.0.1280.693/0.0.1920.1040@0.0.1920.1040" timestamp="1588213155632" />
+    <state x="56" y="0" key="SettingsEditor" timestamp="1587087720853">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="56" y="0" key="SettingsEditor/-1920.0.1280.693/0.0.1920.1040@0.0.1920.1040" timestamp="1587087720853" />
+    <state x="638" y="259" key="chooseDestDirectoryDialog" timestamp="1587437457213">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="638" y="259" key="chooseDestDirectoryDialog/-1920.0.1280.693/0.0.1920.1040@0.0.1920.1040" timestamp="1587437457213" />
+    <state x="502" y="127" key="extract.method.dialog" timestamp="1588054363502">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="502" y="127" key="extract.method.dialog/-1920.0.1280.693/0.0.1920.1040@0.0.1920.1040" timestamp="1588054363502" />
+    <state x="0" y="26" key="new project wizard" timestamp="1588234442088">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="0" y="26" key="new project wizard/-1920.0.1280.693/0.0.1920.1040@0.0.1920.1040" timestamp="1588234442088" />
+    <state x="364" y="228" width="1177" height="1976" key="run.anything.popup" timestamp="1587800574786">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="364" y="228" width="1177" height="1976" key="run.anything.popup/-1920.0.1280.693/0.0.1920.1040@0.0.1920.1040" timestamp="1587800574786" />
+    <state x="369" y="0" width="1177" height="1036" key="search.everywhere.popup" timestamp="1588152291247">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="369" y="0" width="1177" height="1036" key="search.everywhere.popup/-1920.0.1280.693/0.0.1920.1040@0.0.1920.1040" timestamp="1588152291247" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-commons/1.3.0.RELEASE/spring-cloud-commons-1.3.0.RELEASE-sources.jar!/org/springframework/cloud/client/loadbalancer/LoadBalancerInterceptor.java</url>
+          <line>51</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-netflix-core/1.4.0.RELEASE/spring-cloud-netflix-core-1.4.0.RELEASE-sources.jar!/org/springframework/cloud/netflix/ribbon/RibbonLoadBalancerClient.java</url>
+          <line>71</line>
+          <properties />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/easymall-parent/easymall-user/src/test/java/cn/tedu/redis/JedisTest.java</url>
+          <line>49</line>
+          <properties />
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/easymall-parent/easymall-user/src/test/java/cn/tedu/redis/MyShardJedis.java</url>
+          <line>28</line>
+          <properties />
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/easymall-parent/easymall-user/src/test/java/cn/tedu/redis/MyShardJedis.java</url>
+          <line>21</line>
+          <properties />
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/easymall-parent/easymall-user/src/test/java/cn/tedu/redis/JedisTest.java</url>
+          <line>84</line>
+          <properties />
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/easymall-parent/easymall-product/src/main/java/cn/tedu/config/ESConfiguration.java</url>
+          <line>19</line>
+          <properties />
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="SpringBootApplicationConfigurationType">
+        <watch expression="((JedisConnectionFactory)((StringRedisTemplate)((UserService)this).template).connectionFactory).cluster" custom="cn.tedu.user.service.UserService,org.springframework.data.redis.connection.jedis.JedisConnectionFactory,org.springframework.data.redis.core.StringRedisTemplate" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/easymall-1912-alll.iml" />
+    <entry file="file://$PROJECT_DIR$/easymall-parent/easymall-order/src/main/java/cn/tedu/order/service/OrderService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-254">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/easymall-parent/easymall-order/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-530" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/easymall-parent/easymall-pic/src/main/java/cn/tedu/StarterImg.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/order-user-1912-parent/springboot-order/src/main/java/cn/tedu/controller/OUController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/easymall-parent/easymall-cart/src/main/java/cn/tedu/cart/service/CartService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="16" column="26" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
+          <folding>
+            <element signature="e#504#505#0" expanded="true" />
+            <element signature="e#565#566#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/easymall-parent/easymall-cart/src/main/java/cn/tedu/cart/mapper/CartMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="7" column="25" lean-forward="true" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/easymall-parent/easymall-cart/src/main/java/cn/tedu/StarterCart.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="16" column="34" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/easymall-search/src/main/java/cn/tedu/config/ESConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="690">
+          <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/easymall-springcloud-parent/config-client/src/main/java/cn/tedu/StarterConfigClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/easymall-parent/easymall-cart/src/main/java/cn/tedu/cart/controller/CartController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-263">
+          <caret line="23" column="12" lean-forward="true" selection-start-line="23" selection-start-column="12" selection-end-line="23" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/easymall-parent/easymall-common-resources/src/main/java/com/jt/common/pojo/Cart.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="7" column="28" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/easymall-parent/easymall-common-resources/src/main/java/com/jt/common/pojo/Order.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="129">
+          <caret line="13" column="39" selection-start-line="13" selection-start-column="39" selection-end-line="13" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/easymall-parent/easymall-common-resources/src/main/java/com/jt/common/pojo/Product.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-286">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/easymall-parent/easymall-common-resources/src/main/java/com/jt/common/pojo/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" selection-start-line="2" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/easymall-parent/easymall-common-resources/src/main/java/com/jt/common/pojo/Success.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/easymall-parent/easymall-common-resources/src/main/java/com/jt/common/pojo/Seckill.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/easymall-parent/easymall-common-resources/src/main/java/com/jt/common/utils/MD5Util.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/easymall-parent/easymall-common-resources/src/main/java/com/jt/common/utils/RabbitmqUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/easymall-parent/easymall-order/src/main/java/cn/tedu/order/controller/OrderController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="118">
+          <caret line="28" column="11" lean-forward="true" selection-start-line="28" selection-start-column="11" selection-end-line="28" selection-end-column="11" />
+          <folding>
+            <element signature="e#952#953#0" expanded="true" />
+            <element signature="e#999#1000#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/maven/lib/maven.jar!/schemas/maven-4.0.0.xsd">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="483">
+          <caret line="21" column="23" lean-forward="true" selection-start-line="21" selection-start-column="23" selection-end-line="21" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/easymall-springcloud-parent/config-server/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" column="34" lean-forward="true" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/easymall-springcloud-parent/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-253">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/easymall-parent/easymall-common-resources/src/main/java/com/jt/common/pojo/OrderItem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="45" column="5" selection-start-line="45" selection-start-column="5" selection-end-line="45" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

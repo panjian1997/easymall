@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/easymall-parent" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/easymall-parent/easymall-cart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/easymall-parent/easymall-cart/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/easymall-parent/easymall-common-resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/easymall-parent/easymall-common-resources/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/easymall-parent/easymall-order" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/easymall-parent/easymall-order/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/easymall-parent/easymall-pic" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/easymall-parent/easymall-pic/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/easymall-parent/easymall-product" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/easymall-parent/easymall-product-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/easymall-parent/easymall-product-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/easymall-parent/easymall-product/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/easymall-parent/easymall-seckill" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/easymall-parent/easymall-seckill/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/easymall-parent/easymall-seckill/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/easymall-parent/easymall-user" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/easymall-parent/easymall-user/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/easymall-parent/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/easymall-search" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/easymall-search/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/easymall-search/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/easymall-springcloud-parent" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/easymall-springcloud-parent/config-client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/easymall-springcloud-parent/config-client/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/easymall-springcloud-parent/config-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/easymall-springcloud-parent/config-server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/easymall-springcloud-parent/eureka-client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/easymall-springcloud-parent/eureka-client/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/easymall-springcloud-parent/eureka-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/easymall-springcloud-parent/eureka-server-02" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/easymall-springcloud-parent/eureka-server-02/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/easymall-springcloud-parent/eureka-server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/easymall-springcloud-parent/feign-client01" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/easymall-springcloud-parent/feign-client01/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/easymall-springcloud-parent/gateway-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/easymall-springcloud-parent/gateway-server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/easymall-springcloud-parent/ribbon-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/easymall-springcloud-parent/ribbon-server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/easymall-springcloud-parent/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/easymall-springcloud-parent/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/order-user-1912-parent" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/order-user-1912-parent/springboot-order" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/order-user-1912-parent/springboot-order/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/order-user-1912-parent/springboot-user" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/order-user-1912-parent/springboot-user/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/order-user-1912-parent/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/order-user-1912-parent/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="gateway-server" />
+        <module name="easymall-product" />
+        <module name="config-client" />
+        <module name="springboot-order" />
+        <module name="easymall-order" />
+        <module name="easymall-seckill" />
+        <module name="easymall-user" />
+        <module name="eureka-client" />
+        <module name="easymall-search" />
+        <module name="easymall-pic" />
+        <module name="eureka-server-02" />
+        <module name="easymall-cart" />
+        <module name="ribbon-server" />
+        <module name="eureka-server" />
+        <module name="easymall-common-resources" />
+        <module name="springboot-user" />
+        <module name="easymall-product-api" />
+        <module name="feign-client01" />
+        <module name="config-server" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
